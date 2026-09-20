@@ -1,4 +1,4 @@
-# Home Energy Tracker
+# Rikify - Home Energy Tracker
 
 [![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.0-green.svg)](https://spring.io/projects/spring-boot)
